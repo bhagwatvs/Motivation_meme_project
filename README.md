@@ -19,4 +19,4 @@ A simple **Motivation Meme** webpage built using **HTML & CSS** to display inspi
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/motivation-meme.git
+   git clone [https://github.com/bhagwatvs/Motivation_meme_project]
